@@ -90,10 +90,10 @@ This intensive program equipped me with comprehensive data analytics skills thro
 Throughout this program, I worked on numerous hands-on projects that simulated real-world data challenges. Each course built upon the previous one, allowing me to develop a comprehensive skill set that I can apply directly in data analytics roles.
 
 ## 🔗 Connect with Me
-- LinkedIn: [Your LinkedIn Profile]
-- Portfolio: [Your Portfolio Website]
-- Email: [Your Email]
-
+**Nij Hingrajiiya**  
+- 📍 London  
+- 📧 nijhingrajiya40@gmail.com  
+- 🌐 [My other interactive Portfolio projects](https://www.novypro.com/profile_about/nij-hingrajiya)
 ---
 
 *This repository showcases my completion of the Google Data Analytics Professional Certificate program. All certificates are verifiable through the provided Coursera links.*
