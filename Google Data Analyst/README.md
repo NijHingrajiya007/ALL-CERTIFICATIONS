@@ -1,6 +1,6 @@
 # Google Data Analytics Professional Certificate
 
-![Google Data Analytics Certificate](W:\Certificates\Google Data Analytics\Google Data Analytics_FINAL_CERTIFICATE.pdf)
+![Google Data Analytics Certificate](W:\Certificates\Google Data Analytics)
 
 ## 📜 Professional Certificate Overview
 - **Certificate Name**: Google Data Analytics Professional Certificate
