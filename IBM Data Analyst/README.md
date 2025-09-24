@@ -192,8 +192,16 @@ graph TD
 
 **Verification**: [Verify Course](https://coursera.org/share/19f5324b2b04974cdb5c3aad02a73adb)
 
+<br>
+
+## 🔗 Connect with Me
+**💼 Nij Hingrajiiya**  
+- 📍 London  
+- 📧 nijhingrajiya40@gmail.com  
+- 🌐 [My interactive Portfolio projects](https://www.novypro.com/profile_about/nij-hingrajiya)
 
 
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&lines=What+I+Learned:+Python%2C+SQL%2C+Excel%2C+Visualization+%F0%9F%9A%80;Advanced+Data+Analysis+%26+Machine+Learning+%F0%9F%A7%A0;Interactive+Dashboards+%26+Storytelling+%F0%9F%93%88;AI+Tools+for+Smarter+Analytics+%F0%9F%A4%96" alt="What I Learned Animation" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=1000&lines=Business+Impact:+Data-Driven+Decisions+%F0%9F%92%BC;Improved+Efficiency+%26+Cost+Savings+%F0%9F%92%B0;Predicting+Trends+%26+Opportunities+%F0%9F%93%88;Driving+Business+Growth+with+Insights+%F0%9F%9A%80" alt="Business Growth Animation" />
