@@ -1,4 +1,4 @@
-#🏆 Google Data Analytics Professional Certificate 🏆
+## 🏆 Google Data Analytics Professional Certificate 🏆
 
 <img width="607" height="458" alt="certificate" src="https://github.com/user-attachments/assets/c79e4582-3992-495b-8934-5f8b9bb0fab0" />
 
