@@ -9,6 +9,21 @@
 
 This intensive program equipped me with comprehensive data analytics skills through eight hands-on courses and a career acceleration module. I gained practical experience with industry-standard tools and methodologies used in data analysis roles.
 
+
+```mermaid
+graph TD
+    A[My Skills] --> B[Solve Business Problems]
+    A --> C[Drive Data Decisions]
+    A --> D[Create Visual Insights]
+    A --> E[Optimize Processes]
+    
+    B --> F[Increased Efficiency]
+    C --> G[Better Strategy]
+    D --> H[Clear Communication]
+    E --> I[Cost Savings]
+```
+
+
 ## 🎯 Skills I Acquired
 - **Tools & Technologies**: Spreadsheets, SQL, Tableau, R Programming
 - **Methodologies**: Data cleaning, analysis, visualization, and storytelling
