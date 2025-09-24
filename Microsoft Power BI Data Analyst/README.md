@@ -120,3 +120,9 @@ graph LR
     class D,D1,D2,D3 model;
     class E,E1,E2,E3 viz;
 ```
+
+## 🔗 Connect with Me
+**💼 Nij Hingrajiiya**  
+- 📍 London  
+- 📧 nijhingrajiya40@gmail.com  
+- 🌐 [My interactive Portfolio projects](https://www.novypro.com/profile_about/nij-hingrajiya)
