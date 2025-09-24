@@ -194,6 +194,13 @@ graph TD
 
 <br>
 
+### 🎯 Course Completion Summary
+
+This comprehensive IBM Data Analyst Professional Certificate has transformed me into a skilled data professional equipped with end-to-end analytics capabilities. I've mastered the complete data lifecycle from data collection and cleaning using Python, SQL, and Excel to advanced visualization and storytelling with tools like Cognos, Matplotlib, and Plotly. The program provided hands-on experience in statistical analysis, database management, and AI-enhanced analytics, culminating in real-world projects that demonstrate my ability to derive actionable business insights. I'm now prepared to tackle complex data challenges and deliver data-driven solutions that drive meaningful business outcomes.
+
+
+<br>
+
 ## 🔗 Connect with Me
 **💼 Nij Hingrajiiya**  
 - 📍 London  
