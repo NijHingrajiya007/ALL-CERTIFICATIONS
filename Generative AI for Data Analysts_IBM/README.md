@@ -89,3 +89,9 @@ graph LR
 - **Business Value:** Increase productivity, improve report accuracy, generate predictive insights, and enhance analytics career opportunities.  
 - **Certification:** IBM Generative AI for Data Analysts ✅
 
+---
+## 🔗 Connect with Me
+**💼 Nij Hingrajiiya**  
+- 📍 London  
+- 📧 nijhingrajiya40@gmail.com  
+- 🌐 [My other interactive Portfolio projects](https://www.novypro.com/profile_about/nij-hingrajiya)
