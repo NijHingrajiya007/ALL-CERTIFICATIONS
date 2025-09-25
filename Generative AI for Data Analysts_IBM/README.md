@@ -1,4 +1,7 @@
 # 🏆 IBM Generative AI for Data Analysts Certification 🤖
+## 🌟 Overview
+
+This certification provided hands-on experience with **Generative AI tools and techniques** tailored for data analysts. I learned to **enhance data analytics workflows**, automate report generation, and generate actionable insights using AI. The program emphasized practical applications of AI for **business growth, predictive analytics, and efficiency improvements**.
 
 <div align="center">
 
@@ -9,10 +12,6 @@ Generative AI for Data Analysts Certification • [Verify Certificate](https://c
 
 </div>
 
-## 🌟 Overview
-
-This certification provided hands-on experience with **Generative AI tools and techniques** tailored for data analysts. I learned to **enhance data analytics workflows**, automate report generation, and generate actionable insights using AI. The program emphasized practical applications of AI for **business growth, predictive analytics, and efficiency improvements**.
-
 
 ## 🚀 Key Skills Acquired
 
@@ -21,13 +20,6 @@ This certification provided hands-on experience with **Generative AI tools and t
 - **Generative Reporting:** Produce automated dashboards, summaries, and narrative analytics.  
 - **Enhanced Analytics Workflows:** Combine traditional data analysis with AI for faster insights.  
 - **Business Impact:** Enable smarter decision-making, predictive insights, and improved reporting efficiency.
-
-<div align="center">
-
-![Generative AI Key Skills](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=74EE15&center=true&vCenter=true&width=900&lines=AI-Powered+Data+Cleaning+%F0%9F%A7%A0;Prompt+Engineering+%F0%9F%94%A5;Generative+Reporting+%F0%9F%93%9A;Enhanced+Analytics+Workflows+%F0%9F%92%BB;Business+Impact+%F0%9F%9A%80)
-
-</div>
-
 
 ```mermaid
 graph LR
@@ -51,28 +43,34 @@ graph LR
 
 ```
 ---
-## 📚 Course Portfolio
+<div align="center">
+
+![Generative AI Key Skills](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=74EE15&center=true&vCenter=true&width=900&lines=1.+Introduction+and+Applications+%F0%9F%8E%AF;2.+Prompt+Engineering+Basics+%F0%9F%94%A5;3.+Enhance+your+Data+Analytics+Career+%F0%9F%9A%80)
+
+</div>
+
+## 📚 Courses Completed
 
 ### 🔹 1. Generative AI: Introduction and Applications
 
 <img width="607" height="458" alt="1" src="https://github.com/user-attachments/assets/525964f8-5240-4137-8009-0b42fb6c0de1" />
 
-**Learnings:** Explored the fundamentals of Generative AI and its role in data analysis. Learned key concepts, AI model types, and applications in real-world business scenarios. Applied AI to automate repetitive data tasks and enhance analytical efficiency.  
-**Verification:** [Verify Course](https://coursera.org/share/43797ddb63f07006118ae355a0079ca7)
+- **Learnings:** Explored the fundamentals of Generative AI and its role in data analysis. Learned key concepts, AI model types, and applications in real-world business scenarios. Applied AI to automate repetitive data tasks and enhance analytical efficiency.  
+- **Verification:** [Verify Course](https://coursera.org/share/43797ddb63f07006118ae355a0079ca7)
 
 ### 🔹 2. Generative AI: Prompt Engineering Basics
 
 <img width="607" height="458" alt="2" src="https://github.com/user-attachments/assets/69d2b451-192b-4cc8-bcf2-d68ffa196ed6" />
 
-**Learnings:** Developed expertise in crafting precise AI prompts to generate meaningful outputs. Learned strategies to optimize AI responses for analytics tasks, reporting, and predictive modeling. Applied prompt engineering to improve accuracy and reliability of AI-generated insights.  
-**Verification:** [Verify Course](https://coursera.org/share/ed4bae35edf28ca24c6f70a235ade6d6)
+- **Learnings:** Developed expertise in crafting precise AI prompts to generate meaningful outputs. Learned strategies to optimize AI responses for analytics tasks, reporting, and predictive modeling. Applied prompt engineering to improve accuracy and reliability of AI-generated insights.  
+- **Verification:** [Verify Course](https://coursera.org/share/ed4bae35edf28ca24c6f70a235ade6d6)
 
 ### 🔹 3. Generative AI: Enhance your Data Analytics Career
 
 <img width="607" height="458" alt="3" src="https://github.com/user-attachments/assets/82abc6fe-a457-484a-ac38-5d23f7baef1d" />
 
-**Learnings:** Applied Generative AI to enhance professional data analytics workflows. Learned to integrate AI tools into dashboards, reporting, and data storytelling. Explored AI-assisted insights for business decision-making, predictive trends, and operational efficiency. Completed projects simulating real-world analytics scenarios with AI augmentation.  
-**Verification:** [Verify Course](https://coursera.org/share/83c10fe3151dfb34862275101a03f5d1)
+- **Learnings:** Applied Generative AI to enhance professional data analytics workflows. Learned to integrate AI tools into dashboards, reporting, and data storytelling. Explored AI-assisted insights for business decision-making, predictive trends, and operational efficiency. Completed projects simulating real-world analytics scenarios with AI augmentation.  
+- **Verification:** [Verify Course](https://coursera.org/share/83c10fe3151dfb34862275101a03f5d1)
 
 ---
 
